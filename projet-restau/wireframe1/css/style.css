@@ -1,0 +1,33 @@
+header{
+	font-size: 18px;
+	margin: auto;
+	background-image: url(https://cdn.pixabay.com/photo/2017/01/22/19/12/pizza-2000595_960_720.jpg);
+}
+
+.logo.container img{
+	width: 	50%
+}
+
+.menu-top ul{
+	display: flex;
+	justify-content: space-between;
+}
+
+.menu-top ul li{
+	color: #fff
+}
+
+.title-container{
+	margin: auto;
+	margin-top: 3em;
+	justify-content: center;
+}
+
+.image.container{
+	display: flex;
+}
+
+.photo {
+	margin: auto;
+	justify-content: center;
+}
